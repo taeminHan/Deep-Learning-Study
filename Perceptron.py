@@ -79,3 +79,14 @@ def OR(x1, x2):
 """
 AND, NAND, OR는 모두 같은 구조의 퍼셉트론이고, 차이는 가중치 매개변수의 값이다.
 """
+
+def XOR(x1, x2):
+    s1 = NAND(x1, x2)
+    s2 = OR(x1, x2)
+    y = AND(x1, x2)
+    return y
+
+print(XOR(0, 0))  # 0을 출력
+print(XOR(1, 0))  # 1을 출력
+print(XOR(0, 1))  # 1을 출력
+print(XOR(1, 1))  # 0을 출력

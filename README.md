@@ -6,7 +6,7 @@ TIL 코드도 같이 업로드 하는중!
 
 <hr>
 
-### 찾아보는 논문들📑
+### 📑 찾아보는 논문들
 
 * 공짜 점심 이론 논문
    * [The Lack of A Priori Distinctions Between Learning Algorithms](https://www.mitpressjournals.org/doi/abs/10.1162/neco.1996.8.7.1341)
@@ -20,7 +20,7 @@ TIL 코드도 같이 업로드 하는중!
    * RaCT: Toward Amortized Ranking-Critical Training For Collaborative Filtering (ICLR ’20)
    * Degenerate Feedback Loops in Recommender Systems (AIES ’19)
 
-### 읽어 볼만한 책들📚
+### 📚 읽어 볼만한 책들
   
 * 추천시스템
    * 추천시스템에 사용되는 포괄적인 통계기술을 소개한 책 Statistical Methods for Recommender Systems, Agarwal

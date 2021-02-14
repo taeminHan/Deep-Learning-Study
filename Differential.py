@@ -20,6 +20,13 @@ def function_1(x):
     return 0.01 * x ** 2 + 0.1 * x
 
 
+def tengent_line(f, x):
+    d = numerical_diff(f, x)
+    print(d)
+    y = f(x) - d * x
+    return lambda t: d * t + y
+
+
 """
     y = 0.01x^2 + 0.1x의 그래프
 """

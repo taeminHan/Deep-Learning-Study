@@ -6,6 +6,12 @@ TIL 코드도 같이 업로드 하는중!
 
 <hr>
 
+### 필요한 문서들
+
+* IQR 이상치 데이터 탐색 및 제거
+  * [IQR 이상치 데이터 탐색](https://hwi-doc.tistory.com/entry/IQR-%EB%B0%A9%EC%8B%9D%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%B4%EC%83%81%EC%B9%98-%EB%8D%B0%EC%9D%B4%ED%84%B0Outlier-%EC%A0%9C%EA%B1%B0)
+
+
 ### 📑 찾아보는 논문들
 
 * 공짜 점심 이론 논문
